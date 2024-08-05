@@ -1,0 +1,1 @@
+#Que funciones podemos aplicar a las listas? 
